@@ -94,7 +94,7 @@ healthcare-management-system/
 
 ### 1. Clone the Repository
 
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/rubikaruth5-dotcom/healthcare_management_system.git
 
 ### 2. Navigate to Project Folder
 
@@ -112,7 +112,7 @@ env\Scripts\activate
 
 ### 5. Install Dependencies
 
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 
 ### 6. Configure PostgreSQL
 
